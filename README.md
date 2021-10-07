@@ -1,6 +1,6 @@
 # SharpCalendar
 Retrieve Outlook Calendar Details using Cobalt Strike's Execute-Assembly. 
-Sometimes its nice to know if/when someone will be out of office ¯\_(ツ)_/¯ 
+Sometimes its nice to know if/when someone will be out of office :D
 
 Help: SharpCalendar.exe -h
 
